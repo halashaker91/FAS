@@ -1,4 +1,5 @@
-# Face anti-Spoofing using multiple modals
+# A Multi-Modal Convolutional Neural Network Strategy for Spoof Detection
+
 The method introduced aims to tackle the face anti-spoofing problem by leveraging a Convolutional Neural Network (CNN) approach while utilizing the WMCA dataset. This method utilizes a combination of color (C), depth (D), infrared (IR), and thermal (T) modalities to enhance the performance of the neural network model.
 
 
@@ -15,7 +16,7 @@ The proposed method comprises two scenarios:
 In this scenario, a series of experiments are conducted to assess the effectiveness of the system. Various combinations of multi-modal data are tested, and all modalities are swapped with each other to ensure comprehensive and realistic results.
 
 <div>
-<img src="https://github.com/halashaker91/FAS/assets/122183607/a16ebfc1-ffe8-461e-a57c-1d92484d990b" width="800">
+<img src="https://github.com/halashaker91/FAS/assets/122183607/a16ebfc1-ffe8-461e-a57c-1d92484d990b" width="900">
 </div>
 
 
@@ -28,7 +29,7 @@ In this scenario, individual modalities are processed independently. Each modali
 
   
 <div>
-<img src="https://github.com/halashaker91/FAS/assets/122183607/4d39415c-5080-414e-89ef-748f89a652d7" width="800">
+<img src="https://github.com/halashaker91/FAS/assets/122183607/4d39415c-5080-414e-89ef-748f89a652d7" width="900">
 </div>
 
 
