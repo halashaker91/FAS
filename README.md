@@ -38,8 +38,6 @@ In this scenario, individual modalities are processed independently. Each modali
 You can install Spyder using the pip package manager, which is typically included with most Python installations. Prior to installing Spyder in this manner, you must first obtain the Python programming language from [the official Python website](https://www.python.org/).
 
 Python >= 3.10.9 64-bit
-python3-PyQt5 >= 5.15.7
-python3-Qt >= 5.15.2 
 
 To install Spyder and its other dependencies, You should run pip install spyder. 
 
